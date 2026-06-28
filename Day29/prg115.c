@@ -1,8 +1,3 @@
-/* Menu-driven string operations
-   Supports: length, copy, concatenate, compare, reverse,
-   case conversion, vowel/consonant/digit/space counts, substring search,
-   palindrome check, and exit.
-*/
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
